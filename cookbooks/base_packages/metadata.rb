@@ -1,6 +1,6 @@
 name 'base_packages'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'William Lac'
+maintainer_email 'wlac@example.com'
 license 'All Rights Reserved'
 description 'Installs/Configures base_packages'
 long_description 'Installs/Configures base_packages'
