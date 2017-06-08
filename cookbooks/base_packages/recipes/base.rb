@@ -1,2 +1,3 @@
-package 'unzip' do
-end
+package 'unzip'
+package 'wget'
+package 'net-tools'
